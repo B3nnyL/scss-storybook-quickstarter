@@ -24,10 +24,10 @@ npm run build
 
 ## Resources
 
-[storybook](https://storybook.js.org/configurations/serving-static-files/)
-[webpack](https://webpack.js.org/)
-[mini-css-extract-plugin](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin)
-[uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
+- [storybook](https://storybook.js.org/configurations/serving-static-files/)
+- [webpack](https://webpack.js.org/)
+- [mini-css-extract-plugin](https://github.com/faceyspacey/extract-css-chunks-webpack-plugin)
+- [uglifyjs-webpack-plugin](https://github.com/webpack-contrib/uglifyjs-webpack-plugin)
 
 ## Licence
 
